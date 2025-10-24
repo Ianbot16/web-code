@@ -1,0 +1,8 @@
+-------------------
+N�mero de c�dula: 0954343208
+Nombres: Christian
+Apellidos: Freire
+Edad: 21
+G�nero: Masculino
+Tel�fono: 0992182686
+--------------------
