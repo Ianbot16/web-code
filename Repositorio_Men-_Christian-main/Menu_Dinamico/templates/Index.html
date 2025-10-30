@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>ISTG</title>
+    {% load static %}
+	<link rel="stylesheet" href="{% static "css/estilos.css" %}">
+</head>
+<body style="background: url(https://www.xtrafondos.com/wallpapers/montanas-con-nieve-en-el-bosque-3934.jpg);background-size: 100vw 100vh;
+background-repeat: no-repeat;">
+	<form method="POST">
+        <header class="header">
+		<div class="container">
+		<div class="btn-menu">
+			<label for="btn-menu">☰</label>
+		</div>
+			<div class="logo">
+				<h1>Menu Dinamico</h1>
+			</div>
+			<nav class="menu">
+                {% for Menu_Registro in list %}
+                <a href="{% url Menu_Registro.ruta %}">{{ Menu_Registro.menu }}</a>
+                {% endfor %}
+			</nav>
+		</div>
+	    </header>
+	    <div class="capa"></div>
+<!--	--------------->
+        <input type="checkbox" id="btn-menu">
+        <div class="container-menu">
+	        <div class="cont-menu">
+		        <nav>
+                    {% for Menu_Registro in list %}
+                    <a href="{% url Menu_Registro.ruta %}">{{ Menu_Registro.menu }}</a>
+                    {% endfor %}
+		        </nav>
+		        <label for="btn-menu">✖️</label>
+	        </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <h1>Hola mundo</h1>
+        <p>aassdd</p>
+    </form>
+</body>
+</html>
