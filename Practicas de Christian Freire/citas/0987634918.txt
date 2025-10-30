@@ -1,0 +1,6 @@
+Cédula: Femenino
+Nombres: 0987634918
+Apellidos: María Emilia
+Fecha de nacimiento: Carvajal Vasconez
+Edad: 2004-06-19
+Sexo: 19

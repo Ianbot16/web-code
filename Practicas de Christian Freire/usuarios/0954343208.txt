@@ -1,0 +1,6 @@
+Nombre: Chris
+Apellido: Freire
+Fecha de Nacimiento: 2003-05-16
+Edad: 20
+Sexo: masculino
+Cedula: 0954343208

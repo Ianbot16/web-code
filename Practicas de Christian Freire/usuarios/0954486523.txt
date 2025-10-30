@@ -1,0 +1,6 @@
+Nombre: Julio
+Apellido: Arosemena
+Fecha de Nacimiento: 2000-09-05
+Edad: 23
+Sexo: masculino
+Cedula: 0954486523

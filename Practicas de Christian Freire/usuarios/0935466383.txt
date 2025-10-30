@@ -1,0 +1,6 @@
+Nombre: Kiara
+Apellido: Torres
+Fecha de Nacimiento: 1999-06-03
+Edad: 24
+Sexo: femenino
+Cedula: 0935466383

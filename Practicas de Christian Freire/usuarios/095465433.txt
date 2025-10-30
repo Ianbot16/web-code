@@ -1,0 +1,6 @@
+Nombre: Arturo
+Apellido: Vizcarra
+Fecha de Nacimiento: 2001-02-05
+Edad: 22
+Sexo: masculino
+Cedula: 095465433
